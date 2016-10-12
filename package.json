@@ -1,0 +1,31 @@
+{
+  "name": "fis-parser-babel",
+  "version": "0.0.1",
+  "description": "a babel 6 parser for fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3js/fis-parser-babel.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "parser",
+    "babel6"
+  ],
+  "author": "lrenc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z3js/fis-parser-babel/issues"
+  },
+  "homepage": "https://github.com/z3js/fis-parser-babel#readme",
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0"
+  }
+}

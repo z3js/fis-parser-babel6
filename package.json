@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-babel6",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a babel 6 parser for fis",
   "main": "index.js",
   "scripts": {

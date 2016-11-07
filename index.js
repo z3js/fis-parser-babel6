@@ -12,9 +12,6 @@ module.exports = function (content, file, conf) {
        presets: [
            presetlatest,
            presetstage0
-       ],   
-       plugins: [
-           require("babel-polyfill")
        ]
    }, conf);
    return babel.transform(content, conf).code;

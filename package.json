@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-babel6",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "a babel 6 parser for fis",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   "homepage": "https://github.com/z3js/fis-parser-babel#readme",
   "dependencies": {
     "babel-core": "^6.17.0",
-    "babel-polyfill": "^6.16.0",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0"
   }

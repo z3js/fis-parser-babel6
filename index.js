@@ -8,7 +8,7 @@ module.exports = function (content, file, conf) {
     if (!content) {
         return content;
     }
-    conf = fis.util.extend({
+    conf = Object.assign({
        presets: [
            presetlatest,
            presetstage0
